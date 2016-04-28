@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dechristianocap00wiesgoog_0003.png"; bbox 0 0 4500 5567; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3118 5108 4182 5306">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3118 5108 4182 5306">
+     <span class='ocr_line' id='line_1_1' title="bbox 3118 5108 4182 5306; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 3118 5108 3127 5110; x_wconf 86' lang='lat'>-</span> <span class='ocrx_word' id='word_1_2' title='bbox 3184 5202 3441 5267; x_wconf 52' lang='grc' dir='ltr'>ἐξ</span> <span class='ocrx_word' id='word_1_3' title='bbox 3469 5128 4108 5306; x_wconf 54' lang='grc' dir='ltr'>εΩΟΟω-ω,</span> <span class='ocrx_word' id='word_1_4' title='bbox 4177 5116 4182 5123; x_wconf 75' lang='grc'><strong><em>.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 4124 5400 4134 5435">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 4124 5400 4134 5435">
+     <span class='ocr_line' id='line_1_2' title="bbox 4124 5400 4134 5435; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 4124 5400 4134 5435; x_wconf 62' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 704 0 4500 5552">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 704 0 4500 5552">
+     <span class='ocr_line' id='line_1_3' title="bbox 704 0 4500 5552; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 704 0 4500 5552; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 4110 5530 4139 5563">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 4110 5530 4139 5563">
+     <span class='ocr_line' id='line_1_4' title="bbox 4110 5530 4139 5563; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 4110 5530 4139 5563; x_wconf 59' lang='lat' dir='ltr'><strong>b</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
